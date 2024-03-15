@@ -48,5 +48,5 @@ if __name__ == "__main__":
     # Example usage:
     # Example channel with a lot of PDF's https://www.are.na/mo-mcknight/texts-seb9ve3j0ta
     # channel_slug = texts-seb9ve3j0ta
-    channel_slug = "texts-seb9ve3j0ta"
+    channel_slug = "PASTE_CHANNEL_NAME_HERE"
     fetch_api(channel_slug)
